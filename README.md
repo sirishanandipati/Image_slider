@@ -24,4 +24,4 @@ To run this project, you will need:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sirishanandipati/image-slider.git
+   git clone https://github.com/sirishanandipati/Image_slider.git
