@@ -25,3 +25,13 @@ To run this project, you will need:
 1. Clone the repository:
    ```bash
    git clone https://github.com/sirishanandipati/Image_slider.git
+
+
+### Screenshots
+This is the home page of the application:
+![Home Page Screenshot](screenshot(3).png)
+![Home Page Screenshot](screenshot(4).png)
+
+
+
+   
