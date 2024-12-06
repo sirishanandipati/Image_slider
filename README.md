@@ -31,6 +31,8 @@ To run this project, you will need:
 This is the home page of the application:
 ![Home Page Screenshot1](Image_slider/Screenshot (3).png)
 ![Home Page Screenshot2](Image_slider/Screenshot(4).png)
+![Screenshot (3)](https://github.com/user-attachments/assets/8d33f7c8-0b38-48b1-9200-01a07fd07d13)
+
 
 
 
