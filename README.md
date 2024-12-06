@@ -29,8 +29,8 @@ To run this project, you will need:
 
 ### Screenshots
 This is the home page of the application:
-![Home Page Screenshot](screenshot(3).png)
-![Home Page Screenshot](screenshot(4).png)
+![Home Page Screenshot](Image_slider/screenshot(3).png)
+![Home Page Screenshot](Image_slider/screenshot(4).png)
 
 
 
