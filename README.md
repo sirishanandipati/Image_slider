@@ -29,9 +29,9 @@ To run this project, you will need:
 
 ### Screenshots
 This is the home page of the application:
-![Home Page Screenshot1](Image_slider/Screenshot (3).png)
-![Home Page Screenshot2](Image_slider/Screenshot(4).png)
-![Screenshot (3)](https://github.com/user-attachments/assets/8d33f7c8-0b38-48b1-9200-01a07fd07d13)
+![Screenshot (1)](https://github.com/user-attachments/assets/8d33f7c8-0b38-48b1-9200-01a07fd07d13)
+![Screenshot (2)](https://github.com/user-attachments/assets/21ac8632-63f2-49ce-970e-8c778b59ef1b)
+
 
 
 
